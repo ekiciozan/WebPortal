@@ -1,0 +1,37 @@
+			
+
+
+			TEMPLATE(manuel2)       BÝZDE
+--------------------------------------------------------------------------------------------
+Punta		    -	Arhole Spot	 =>	ARHOLE_SPOT		
+Matkap	            -   Arhole Drill	 =>     ARHOLE1Ø_DRILL		d<1, 
+						ARHOLE1.5Ø_DRILL	d>1 and d<=1.5, 
+						ARHOLE2Ø_DRILL		d>1.5 and d<=2, 
+						ARHOLE2.5Ø_DRILL	d>2 and d<=2.5,
+					        ARHOLE3Ø_DRILL		d>2.5 and d<=3, 
+						ARHOLE3.5Ø_DRILL	d>3 and d<=3.5,
+						ARHOLE4Ø_DRILL		d>3.5 and d<=4,
+						ARHOLE4.5Ø_DRILL	d>4 and d<=4.5,
+						ARHOLE_DRILL		d>4.5 and d<=12,
+						ARHOLE_DRILL_BREAK	d>12 and d<=50
+Kýlavuz             -	Arhole Tap        =>    ARHOLE_TAP
+Merkezden Kesen Frz -   Peck Drilling     =>    ARHOLE_TDRILLING
+Azdýrma Frz         -   Peck Drilling     =>    ARHOLE_TDRILLING
+Tdrill              -   Drilling          =>    ARHOLE_TDRILLING	
+Dik Kafa            -  	Circle		  =>	ARHOLE_CIRCULAR_POCKET
+Parmak Frz          -   Breakchip Drilling =>	ARHOLE_DRILL_BREAK
+Parmak Frz (Step)   -   Brakchip Drilling  =>   ARHOLE_DRILL_BREAK
+DairCep-Mer.Kesen Frz -                    =>   ARHOLE_CIRCLE_MANUEL
+DörtCep-Mer.Kesen Frz -                    =>   ARHOLE_RECTANGLE_MANUEL
+DairCep-Azdýrma Frz   - Circle             =>   ARHOLE_CIRCULAR_POCKET
+DörtCep-Azdýrma Frz   - Breakchip Drilling =>   ARHOLE_DRILL_BREAK
+DairCep-Parmak Frz    - Circle             =>   ARHOLE_CIRCULAR_POCKET
+DörtCep-Parmak Frz    - Circle             =>   ARHOLE_CIRCULAR_POCKET
+Rayba                 - Reaming		   =>   ARHOLE_REAM
+Kaba Bara  	      - Boring 		   =>	ARHOLE_BORE
+Hassas Bara           - Boring		   =>   AR_HOLE_BORE
+Havsa                 - Circle 		   =>   ARHOLE_CIRCULAR_POCKET
+Rayba-Bara	      - Reaming		   => 	ARHOLE_REAM
+
+
+

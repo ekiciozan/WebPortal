@@ -1,0 +1,21 @@
+Example: 
+Kýlavuz = 	ARHOLE_TAP , G84 , M3_KILAVUZ
+
+Olmayanlar;   	Merkezden Kesen Frz
+		Azdýrma Frz
+		TDrill
+		Dik Kafa
+		Parmak Frz
+		Parmak Frz(Step)
+		DairCep-Azdýrma Frz
+		DörtCep-Azdýrma Frz
+		DairCep-Parmak Frz
+		DörtCep-Parmak Frz
+		Rayba
+		Kaba Baras
+		Hassas Bara
+		Havsa
+		Rayba-Bara
+
+
+		
